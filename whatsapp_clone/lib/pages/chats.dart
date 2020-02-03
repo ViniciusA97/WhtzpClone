@@ -9,9 +9,14 @@ class _ChatsState extends State<Chats>{
   @override
   Widget build(BuildContext context){
     return ListView.builder(
-        itemBuilder: (context, index){
-          
-        }
+        padding: const EdgeInsets.all(8),
+        itemBuilder: (BuildContext context, int index){
+          return Container(
+            
+
+
+          );
+        },
     );
   }
 }

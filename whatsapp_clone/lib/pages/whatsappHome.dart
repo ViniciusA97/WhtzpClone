@@ -1,7 +1,8 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'chat.dart';
+import 'chats.dart';
+import 'login.dart';
 
 class Home extends StatefulWidget{
   _HomeState createState() => _HomeState();
@@ -20,8 +21,15 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin{
   Widget build(BuildContext context){
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Scaffold(
-      body: NestedScrollView(
+      home: Login()
+     
+
+    );
+  }
+
+  Widget telaPrincipal (){
+        return  Scaffold(
+        body: NestedScrollView(
         controller: _scrollController,
         headerSliverBuilder: (BuildContext context, bool InnerBoxIsScrolled){
             return <Widget>[
@@ -68,7 +76,6 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin{
           ],
         ),
       )
-      ) ,
-    );
+        );
   }
 }

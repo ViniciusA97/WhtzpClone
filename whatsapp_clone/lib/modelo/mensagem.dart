@@ -1,17 +1,21 @@
-import 'package:whatsapp_clone/modelo/usuario.dart';
 
-import 'conversa.dart';
 
 class Mensagem{
   DateTime _data;
   String _msg;
-  Usuario _emissor;
-  List<Conversa> _conversa;
+  int _idEmissor;
   
-  List get idConversa => _conversa;
   String get msg => _msg;
   DateTime get data => _data;
-  Usuario get emissor => _emissor;
+  int get emissor => _idEmissor;
 
-  Mensagem(this._data, this._msg);
+  Mensagem(this._data, this._msg, this._idEmissor);
+
+  Mensagem.map(dynamic obj){
+
+    _data = obj['data'];
+    _msg = obj['msg'];
+    _idEmissor = obj['idUser'];
+
+  }
 }
