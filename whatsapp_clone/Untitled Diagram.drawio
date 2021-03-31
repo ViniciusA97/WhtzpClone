@@ -1,1 +1,178 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T11:14:28.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.5.4" etag="ffh_FzDP7Ta5nfg6WCA5" type="github"><diagram id="mCwZVaCGWaUWqRPjBXXf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-31T12:02:37.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="typrBm6wJ2ytgGa9Ziil" version="14.5.4" type="github">
+  <diagram id="mCwZVaCGWaUWqRPjBXXf" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="70" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-2" value="&lt;span id=&quot;docs-internal-guid-5d5cb636-7fff-4d08-fb16-2bdbc3592ccd&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Existe inimigo no radar?&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="319" y="75" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="747" y="490" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-7" value="Combater" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="767" y="500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-12" value="Como está a energia do robô inimigo?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="165" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="155" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-14" value="Não Combater" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="165" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-19" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.844;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FnWAKbPr1p0uw-YaCC7x-1" target="FnWAKbPr1p0uw-YaCC7x-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-20" value="" style="endArrow=classic;html=1;exitX=0.579;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FnWAKbPr1p0uw-YaCC7x-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="500" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-21" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="120" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-23" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="469" y="120" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-28" value="Como está a energia do nosso robô?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="255" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-29" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FnWAKbPr1p0uw-YaCC7x-12" target="FnWAKbPr1p0uw-YaCC7x-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-30" value="Baixa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-31" value="Média" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-33" value="Não Combater" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="250" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-34" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FnWAKbPr1p0uw-YaCC7x-9" target="FnWAKbPr1p0uw-YaCC7x-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-35" value="Alta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="509" y="330" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-38" value="Como está a temperatura do canhão inimigo?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="509" y="335" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-40" value="" style="endArrow=classic;html=1;exitX=0.532;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FnWAKbPr1p0uw-YaCC7x-27" target="FnWAKbPr1p0uw-YaCC7x-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="300" as="sourcePoint" />
+            <mxPoint x="430" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-41" value="Alta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="629" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-42" value="Média" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="325" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-45" value="Não Combater" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="369" y="335" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-47" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FnWAKbPr1p0uw-YaCC7x-27" target="FnWAKbPr1p0uw-YaCC7x-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="300" as="sourcePoint" />
+            <mxPoint x="430" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-48" value="Baixa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="410" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-51" value="Como está a temperatura do nosso canhão?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="415" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-52" value="" style="endArrow=classic;html=1;exitX=0.564;exitY=1.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.368;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FnWAKbPr1p0uw-YaCC7x-38" target="FnWAKbPr1p0uw-YaCC7x-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="300" as="sourcePoint" />
+            <mxPoint x="700" y="398" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-53" value="Média" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-54" value="Alta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="405" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-56" value="Não Combater" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="415" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-57" value="" style="endArrow=classic;html=1;exitX=0.418;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.656;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FnWAKbPr1p0uw-YaCC7x-37" target="FnWAKbPr1p0uw-YaCC7x-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="300" as="sourcePoint" />
+            <mxPoint x="430" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-58" value="Baixa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="490" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-60" value="Não Combater" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="500" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-62" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="FnWAKbPr1p0uw-YaCC7x-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="445" as="sourcePoint" />
+            <mxPoint x="430" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-63" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FnWAKbPr1p0uw-YaCC7x-50" target="FnWAKbPr1p0uw-YaCC7x-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="300" as="sourcePoint" />
+            <mxPoint x="640" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-64" value="Baixa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="749" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-65" value="Média" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FnWAKbPr1p0uw-YaCC7x-66" value="Alta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
